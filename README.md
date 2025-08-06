@@ -85,8 +85,8 @@ The codebase and structure are ready for MFA, and policies can be enforced in Au
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/fidenz-weather-app.git
-cd fidenz-weather-app
+git clone https://github.com/heshanjeewantha/weather-app.git
+cd weather-app
 ```
 
 ### 2. Setup Backend
@@ -216,6 +216,6 @@ Visit: `http://localhost:5173`
 **GitHub:** https://github.com/heshanjeewantha
 **Email:** heshanjeewantha@gmail.com
 
-
+---
 
 
